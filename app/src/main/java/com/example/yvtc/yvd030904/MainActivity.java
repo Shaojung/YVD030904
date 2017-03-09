@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void click1(View v)
     {
+
         img.setImageResource(R.drawable.flower);
     }
     public void click2(View v)
